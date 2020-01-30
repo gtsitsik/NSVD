@@ -1,3 +1,4 @@
+#INSTRUCTIONS
 NSVD_Var.m calculates the singular values of the Khatri-Rao products of the PARAFAC factor matrices. Also it calculates intermediate estimates of CORCONDIA, MSE and Missing Data MSE.
 
 NSVD_demo.m calculates the final estimates of NSVD, CORCONDIA, MSE and Missing Data MSE, and generates the corresponding plots.
